@@ -1,4 +1,24 @@
 
+body {
+    background-image:url(file:///C:/Users/w0468590/OneDrive%20-%20Nova%20Scotia%20Community%20College/.gov/image/poob.jpg);
+    background-color: rgb(184, 226, 144);
+}
+
+header {
+    font-family: 'Dancing Script', cursive;
+    font-size: 5em;
+    text-align: center;
+}
+
 footer {
     text-align: center;
+    background-color: rgb(123, 187, 38)
+}
+
+/* IDs */
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
